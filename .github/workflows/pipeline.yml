@@ -1,7 +1,5 @@
 
-- name: Install Requirements
-        run:  pip install flask flask-wtf
-        
+       
         # Nome do Workflow
 name: DevOpsLab Pipeline
 
